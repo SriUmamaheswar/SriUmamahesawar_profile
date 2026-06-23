@@ -50,6 +50,21 @@ I am a confident Java Full Stack Developer focused on building polished, modern 
 
 ---
 
+## Featured Projects
+
+- [OCTANET](https://github.com/SriUmamaheswar/OCTANET) — Full stack Java and React application.
+- [BHARAT_INTERN](https://github.com/SriUmamaheswar/BHARAT_INTERN) — Web project demonstrating modern UI development.
+- [CHATBOT](https://github.com/SriUmamaheswar/CHATBOT) — Conversational AI implementation using web technologies.
+
+---
+
+## Resume
+
+- Resume available on request via [LinkedIn](https://www.linkedin.com/in/sri-umamaheswar-bonthu).
+- Interested employers and collaborators can connect directly for the latest version.
+
+---
+
 ## GitHub Stats
 
 [![SriUmamaheswar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SriUmamaheswar&show_icons=true&theme=tokyonight)](https://github.com/SriUmamaheswar)
